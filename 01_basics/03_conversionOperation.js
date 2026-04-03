@@ -16,9 +16,18 @@ let score =  "33asd"
 
 let isLogedIn = 1;
 
-let booleanIsLogedIn = Boolean(isLogedIn);
-console.log(booleanIsLogedIn);
+// let booleanIsLogedIn = Boolean(isLogedIn);
+// console.log(booleanIsLogedIn);
 
 // 1 => true ; 0 => false
 // "" => false
 // "aatif" => true
+
+
+ //********************* Operationsn *************************
+
+
+let value = 3
+let negvalue = -value
+// console.log(negvalue);
+
