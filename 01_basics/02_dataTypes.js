@@ -1,6 +1,6 @@
-"use strict"; // treat all js code as never version
+"use strict"; // treat all js code as newer version
 
-// alert ( 3+3) // we are using node js not browser
+// alert ( 3+3) // we are using nodejs, not browser
 
 console.log(3 + 3)
 // code redability should be high
@@ -14,6 +14,7 @@ let state;
 let date = undefined
 
 
+// notes : -->
 // number => 2 to power 53
 // bigint
 // string
